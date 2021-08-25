@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubsSender", "EventHubsSender\EventHubsSender.csproj", "{6BFA4B49-D80A-481B-A3A2-0C226A686387}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubsReceiver", "EventHubsReceiver\EventHubsReceiver.csproj", "{229BE9CA-660F-43CD-9DC5-FC307CB334CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubsCore", "EventHubsCore\EventHubsCore.csproj", "{4310E60C-C6C0-416B-8947-4CC23598FA6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6BFA4B49-D80A-481B-A3A2-0C226A686387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BFA4B49-D80A-481B-A3A2-0C226A686387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BFA4B49-D80A-481B-A3A2-0C226A686387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229BE9CA-660F-43CD-9DC5-FC307CB334CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229BE9CA-660F-43CD-9DC5-FC307CB334CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229BE9CA-660F-43CD-9DC5-FC307CB334CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229BE9CA-660F-43CD-9DC5-FC307CB334CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4310E60C-C6C0-416B-8947-4CC23598FA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4310E60C-C6C0-416B-8947-4CC23598FA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4310E60C-C6C0-416B-8947-4CC23598FA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4310E60C-C6C0-416B-8947-4CC23598FA6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

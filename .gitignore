@@ -349,3 +349,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 /EventHub/EventHubsQuickStart/EventHubsSender/appsettings.json
+/EventHub/EventHubsQuickStart/EventHubsReceiver/appsettings.json
