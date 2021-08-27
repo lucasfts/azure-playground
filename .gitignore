@@ -351,3 +351,5 @@ MigrationBackup/
 /EventHub/EventHubsQuickStart/EventHubsSender/appsettings.json
 /EventHub/EventHubsQuickStart/EventHubsReceiver/appsettings.json
 /BlobStorage/BlobQuickstartV12/BlobQuickstartV12/appSettings.json
+/ServiceBus/ServiceBusQueueQuickStart/ServiceBusQueueQuickStart/appsettings.json
+/ServiceBus/ServiceBusQueueQuickStart/QueueReceiver/appsettings.json
