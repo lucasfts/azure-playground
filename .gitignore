@@ -353,3 +353,5 @@ MigrationBackup/
 /BlobStorage/BlobQuickstartV12/BlobQuickstartV12/appSettings.json
 /ServiceBus/ServiceBusQueueQuickStart/ServiceBusQueueQuickStart/appsettings.json
 /ServiceBus/ServiceBusQueueQuickStart/QueueReceiver/appsettings.json
+/ServiceBus/ServiceBusTopicQuickStart/TopicSender/appsettings.json
+/ServiceBus/ServiceBusTopicQuickStart/SubscriptionReceiver/appsettings.json
