@@ -355,3 +355,5 @@ MigrationBackup/
 /ServiceBus/ServiceBusQueueQuickStart/QueueReceiver/appsettings.json
 /ServiceBus/ServiceBusTopicQuickStart/TopicSender/appsettings.json
 /ServiceBus/ServiceBusTopicQuickStart/SubscriptionReceiver/appsettings.json
+/NotificationHub/EnterprisePushArchitecture/EnterprisePushBackendSystem/App.config
+/NotificationHub/EnterprisePushArchitecture/ReceiveAndSendNotification/App.config
