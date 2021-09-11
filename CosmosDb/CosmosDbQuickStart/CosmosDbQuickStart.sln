@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlCoreSample", "SqlCoreSam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CassandraSample", "CassandraSample\CassandraSample.csproj", "{AC4DFAA8-A3BB-48FC-9023-B1FA7E049B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbSample", "MongoDbSample\MongoDbSample.csproj", "{B2458A92-F0B0-4F61-BEF2-EB2C2385CF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoDbSample", "MongoDbSample\MongoDbSample.csproj", "{B2458A92-F0B0-4F61-BEF2-EB2C2385CF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinSample", "GremlinSample\GremlinSample.csproj", "{FC3F7375-BB5B-42C1-AF7D-F0A3D7217A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GremlinSample", "GremlinSample\GremlinSample.csproj", "{FC3F7375-BB5B-42C1-AF7D-F0A3D7217A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSample", "TableSample\TableSample.csproj", "{7F79DBF5-42D3-4425-9F1E-4A8F1B5E7D48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FC3F7375-BB5B-42C1-AF7D-F0A3D7217A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3F7375-BB5B-42C1-AF7D-F0A3D7217A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3F7375-BB5B-42C1-AF7D-F0A3D7217A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F79DBF5-42D3-4425-9F1E-4A8F1B5E7D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F79DBF5-42D3-4425-9F1E-4A8F1B5E7D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F79DBF5-42D3-4425-9F1E-4A8F1B5E7D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F79DBF5-42D3-4425-9F1E-4A8F1B5E7D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -358,3 +358,4 @@ MigrationBackup/
 /NotificationHub/EnterprisePushArchitecture/EnterprisePushBackendSystem/App.config
 /NotificationHub/EnterprisePushArchitecture/ReceiveAndSendNotification/App.config
 /CosmosDb/CosmosDbQuickStart/MongoDbSample/appsettings.Development.json
+/CosmosDb/CosmosDbQuickStart/TableSample/appsettings.Development.json
